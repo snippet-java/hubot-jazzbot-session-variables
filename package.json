@@ -1,0 +1,25 @@
+{
+	"name": "hubot-jazzbot-session-variables",
+	"description": "A hubot script",
+	"version": "0.1.0",
+	"author": "Syahrul Aiman <syahrul.aiman@my.ibm.com>",
+	"license": "MIT",
+	"keywords": "hubot",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/snippet-java/hubot-jazzbot-session-variable.git"
+	},
+	"bugs": {
+		"url": "https://github.com/snippet-java/hubot-jazzbot-session-variable/issues"
+	},
+	"dependencies": {
+	},
+	"peerDependencies": {
+		"hubot": "2.x"
+	},
+	"files": [
+		"src",
+		"index.js"
+	],
+	"main": "index.js"
+}
