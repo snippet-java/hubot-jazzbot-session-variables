@@ -20,7 +20,7 @@ Then add **hubot-jazzbot-session-variables** to your `external-scripts.json`:
 
 ```
 user1>> hubot session set abc 123
-hubot>> abc SET TO "123"
+hubot>> abc SET TO "123" for 1479692025274
 ```
 
 ## NPM Module
